@@ -1,0 +1,71 @@
+[0202/004324.723254:WARNING:resource_bundle.cc(368)] locale_file_path.empty() for locale 
+[0202/004324.844049:WARNING:resource_bundle.cc(368)] locale_file_path.empty() for locale 
+[0202/004324.862824:VERBOSE1:zygote_main_linux.cc(601)] ZygoteMain: initializing 0 fork delegates
+[0202/004324.871923:INFO:cpu_info.cc(50)] Available number of cores: 2
+[0202/004324.929043:ERROR:instance.cc(49)] Unable to locate service manifest for metrics
+[0202/004324.930141:ERROR:service_manager.cc(890)] Failed to resolve service name: metrics
+[0202/004324.930611:ERROR:gpu_process_transport_factory.cc(1009)] Lost UI shared context.
+[0202/004324.957214:VERBOSE1:webrtc_internals.cc(109)] Could not get the download directory.
+[0202/004324.960298:ERROR:nss_util.cc(83)] Failed to create /home/sbx_user1051/.pki/nssdb directory.
+[0202/004324.960881:VERBOSE1:nss_util.cc(656)] Initializing NSS without a persistent database.
+[0202/004325.089403:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Google 'Aviator' log
+[0202/004325.089853:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Google 'Icarus' log
+[0202/004325.090431:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Google 'Pilot' log
+[0202/004325.090766:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Google 'Rocketeer' log
+[0202/004325.091383:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Google 'Skydiver' log
+[0202/004325.091870:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: DigiCert Log Server
+[0202/004325.092431:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: DigiCert Log Server 2
+[0202/004325.092909:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Symantec log
+[0202/004325.093669:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Symantec 'Vega' log
+[0202/004325.094185:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Symantec 'Sirius' log
+[0202/004325.094574:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: WoSign log
+[0202/004325.094979:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Venafi Gen2 CT log
+[0202/004325.095417:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: CNNIC CT log
+[0202/004325.095851:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: StartCom log
+[0202/004325.096307:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Comodo 'Sabre' CT log
+[0202/004325.096803:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Comodo 'Mammoth' CT log
+[0202/004325.097373:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Izenpe log
+[0202/004325.097901:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Venafi log
+[0202/004325.098538:VERBOSE1:multi_log_ct_verifier.cc(75)] Adding CT log: Certly.IO log
+[0202/004325.098988:VERBOSE1:proxy_service.cc(958)] PAC support disabled because there is no system implementation
+[0202/004325.118370:ERROR:gl_implementation.cc(292)] Failed to load /var/task/bin/libosmesa.so: /var/task/bin/libosmesa.so: cannot open shared object file: No such file or directory
+[0202/004325.119054:VERBOSE1:gpu_init.cc(307)] gl::init::InitializeGLNoExtensionsOneOff failed
+[0202/004325.138243:WARNING:histograms.cc(40)] Started multiple compositor clients (Browser, Renderer) in one process. Some metrics will be disabled.
+[0202/004325.592033:VERBOSE1:network_delegate.cc(30)] NetworkDelegate::NotifyBeforeURLRequest: data:,
+[0202/004325.894063:VERBOSE1:LocalWindowProxy.cpp(229)] A context is created NOT from snapshot
+[0202/004325.939098:VERBOSE1:LocalWindowProxy.cpp(229)] A context is created NOT from snapshot
+[0202/004325.957135:VERBOSE1:network_delegate.cc(30)] NetworkDelegate::NotifyBeforeURLRequest: https://pepup.life/users/sign_in
+[0202/004326.299447:VERBOSE7:cookie_monster.cc(1344)] SetCookie() line: pepup_sess=9ebcd7b0e3b8ec14fb70bbcf77ba5d86; path=/; expires=Sun, 16 Feb 2020 00:43:26 -0000; HttpOnly
+[0202/004326.301289:VERBOSE7:cookie_monster.cc(1403)] SetCookie() key: pepup.life cc: name: pepup_sess value: 9ebcd7b0e3b8ec14fb70bbcf77ba5d86 domain: pepup.life path: / creation: 1580604206
+[0202/004326.306008:VERBOSE1:network_delegate.cc(30)] NetworkDelegate::NotifyBeforeURLRequest: blob:https://pepup.life/27587df2-1e72-4a5a-a62a-a77260266cf8
+[0202/004326.315876:VERBOSE1:LocalWindowProxy.cpp(229)] A context is created NOT from snapshot
+[0202/004326.322408:VERBOSE1:network_delegate.cc(30)] NetworkDelegate::NotifyBeforeURLRequest: https://pepup-assets.s3-ap-northeast-1.amazonaws.com/assets/bootstrap-default-89101ee40d48b42c2f84ec13db3bad558b337cfcf09b6625c62ea221f3c501da.css
+[0202/004326.323207:VERBOSE1:network_delegate.cc(30)] NetworkDelegate::NotifyBeforeURLRequest: https://pepup-assets.s3-ap-northeast-1.amazonaws.com/assets/font-5a1483c5907724c4efea0f6b03c8960bb0b77cbec1c2ad56cd65d44e33d7331b.css
+[0202/004326.323900:VERBOSE1:network_delegate.cc(30)] NetworkDelegate::NotifyBeforeURLRequest: https://pepup-assets.s3-ap-northeast-1.amazonaws.com/assets/application-612ce5c1345c6d7b0decab47bbf75bc2ba9770589f6688e431a1c7ff86389345.css
+[0202/004326.324558:VERBOSE1:network_delegate.cc(30)] NetworkDelegate::NotifyBeforeURLRequest: https://d2wy8f7a9ursnm.cloudfront.net/v4/bugsnag.min.js
+[0202/004326.713573:VERBOSE1:network_delegate.cc(30)] NetworkDelegate::NotifyBeforeURLRequest: https://pepup-assets.s3-ap-northeast-1.amazonaws.com/assets/application-06e2fe1d243c81a80257741fe90fab0a96863f59b354aacd135da32446fb7a6c.js
+[0202/004326.765041:INFO:CONSOLE(1)] "[bugsnag]", source: https://d2wy8f7a9ursnm.cloudfront.net/v4/bugsnag.min.js (1)
+[0202/004326.772586:VERBOSE1:network_delegate.cc(30)] NetworkDelegate::NotifyBeforeURLRequest: https://sessions.bugsnag.com/
+[0202/004326.773380:VERBOSE1:network_delegate.cc(30)] NetworkDelegate::NotifyBeforeURLRequest: https://pepup-assets.s3-ap-northeast-1.amazonaws.com/assets/logo-7e296424d1e11404d42c54d8fbb4dd8af8174ddcd21fbee7bf53d67707d75dcc.png
+[0202/004326.793161:VERBOSE1:network_delegate.cc(30)] NetworkDelegate::NotifyBeforeURLRequest: https://pepup-assets.s3-ap-northeast-1.amazonaws.com/assets/fontawesome-webfont-2adefcbc041e7d18fcf2d417879dc5a09997aa64d675b7a3c4b6ce33da13f3fe.woff2?v=4.7.0
+[0202/004326.821595:VERBOSE1:network_delegate.cc(30)] NetworkDelegate::NotifyBeforeURLRequest: https://www.google-analytics.com/analytics.js
+[0202/004327.131095:VERBOSE7:cookie_monster.cc(1403)] SetCookie() key: pepup.life cc: name: _ga value: GA1.2.2135789209.1580604207 domain: .pepup.life path: / creation: 1580604207
+[0202/004327.133135:VERBOSE7:cookie_monster.cc(1403)] SetCookie() key: pepup.life cc: name: _gid value: GA1.2.1370508341.1580604207 domain: .pepup.life path: / creation: 1580604207
+[0202/004327.138321:VERBOSE7:cookie_monster.cc(1403)] SetCookie() key: pepup.life cc: name: _gat value: 1 domain: .pepup.life path: / creation: 1580604207
+[0202/004327.144780:VERBOSE1:network_delegate.cc(30)] NetworkDelegate::NotifyBeforeURLRequest: https://www.google-analytics.com/r/collect?v=1&_v=j80&a=1736695967&t=pageview&_s=1&dl=https%3A%2F%2Fpepup.life%2Fusers%2Fsign_in&ul=en-us&de=UTF-8&dt=%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%20-%20Pep%20Up(%E3%83%9A%E3%83%83%E3%83%97%E3%82%A2%E3%83%83%E3%83%97)&sd=24-bit&sr=800x600&vp=800x600&je=0&_u=IEBAAEAB~&jid=1910862783&gjid=825070806&cid=2135789209.1580604207&tid=UA-63738792-3&_gid=1370508341.1580604207&_r=1&z=2098357929
+[0202/004327.254417:VERBOSE1:network_delegate.cc(30)] NetworkDelegate::NotifyBeforeURLRequest: https://stats.g.doubleclick.net/r/collect?v=1&aip=1&t=dc&_r=3&tid=UA-63738792-3&cid=2135789209.1580604207&jid=1910862783&_gid=1370508341.1580604207&gjid=825070806&_v=j80&z=2098357929
+[0202/004327.312627:WARNING:resource_bundle.cc(586)] locale resources are not loaded
+[0202/004327.889338:VERBOSE1:network_delegate.cc(30)] NetworkDelegate::NotifyBeforeURLRequest: https://pepup.life/users/sign_in
+[0202/004328.122001:VERBOSE7:cookie_monster.cc(1344)] SetCookie() line: pepup_sess=9ebcd7b0e3b8ec14fb70bbcf77ba5d86; path=/; expires=Sun, 16 Feb 2020 00:43:28 -0000; HttpOnly
+[0202/004328.123887:VERBOSE7:cookie_monster.cc(1515)] InternalDeleteCookie(), cause:1, cc: name: pepup_sess value: 9ebcd7b0e3b8ec14fb70bbcf77ba5d86 domain: pepup.life path: / creation: 1580604206
+[0202/004328.124892:VERBOSE7:cookie_monster.cc(1403)] SetCookie() key: pepup.life cc: name: pepup_sess value: 9ebcd7b0e3b8ec14fb70bbcf77ba5d86 domain: pepup.life path: / creation: 1580604208
+[0202/004328.128757:VERBOSE1:network_delegate.cc(30)] NetworkDelegate::NotifyBeforeURLRequest: blob:https://pepup.life/32b027f8-6339-4fbb-9f12-eb2255e74df1
+[0202/004328.136053:VERBOSE1:LocalWindowProxy.cpp(229)] A context is created NOT from snapshot
+[0202/004328.176965:INFO:CONSOLE(1)] "[bugsnag]", source: https://d2wy8f7a9ursnm.cloudfront.net/v4/bugsnag.min.js (1)
+[0202/004328.181183:VERBOSE1:network_delegate.cc(30)] NetworkDelegate::NotifyBeforeURLRequest: https://sessions.bugsnag.com/
+[0202/004328.262206:WARNING:resource_bundle.cc(586)] locale resources are not loaded
+[0202/004328.354698:VERBOSE7:cookie_monster.cc(1515)] InternalDeleteCookie(), cause:1, cc: name: _ga value: GA1.2.2135789209.1580604207 domain: .pepup.life path: / creation: 1580604207
+[0202/004328.355258:VERBOSE7:cookie_monster.cc(1403)] SetCookie() key: pepup.life cc: name: _ga value: GA1.2.2135789209.1580604207 domain: .pepup.life path: / creation: 1580604208
+[0202/004328.357488:VERBOSE7:cookie_monster.cc(1515)] InternalDeleteCookie(), cause:1, cc: name: _gid value: GA1.2.1370508341.1580604207 domain: .pepup.life path: / creation: 1580604207
+[0202/004328.357818:VERBOSE7:cookie_monster.cc(1403)] SetCookie() key: pepup.life cc: name: _gid value: GA1.2.1370508341.1580604207 domain: .pepup.life path: / creation: 1580604208
+[0202/004328.366912:VERBOSE1:network_delegate.cc(30)] NetworkDelegate::NotifyBeforeURLRequest: https://www.google-analytics.com/collect?v=1&_v=j80&a=710521722&t=pageview&_s=1&dl=https%3A%2F%2Fpepup.life%2Fusers%2Fsign_in&ul=en-us&de=UTF-8&dt=%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%20-%20Pep%20Up(%E3%83%9A%E3%83%83%E3%83%97%E3%82%A2%E3%83%83%E3%83%97)&sd=24-bit&sr=800x600&vp=800x600&je=0&_u=AACAAEAB~&jid=&gjid=&cid=2135789209.1580604207&tid=UA-63738792-3&_gid=1370508341.1580604207&z=1764394893
